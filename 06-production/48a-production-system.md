@@ -28,9 +28,12 @@ A trading system is much closer to a production distributed system than a notebo
 
 Which process or person handles an alert when reconciliation fails while you are away?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Your operating plan must name an owner and a safe default. A log entry without an actionable response is insufficient.
+
+</details>
 
 ---
 

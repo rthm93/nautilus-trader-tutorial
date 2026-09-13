@@ -35,9 +35,12 @@ A strategy could win 90% of trades and still lose money.
 
 Nine trades win 1 each and one loses 20. What are win rate and total PnL?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Win rate is 90%, but PnL is -11 before fees. Frequency of wins says little without payoff size.
+
+</details>
 
 ## A first performance report
 

@@ -16,9 +16,12 @@ For the first bar-based capstone, use an explicit later execution opportunity in
 
 Can a decision made from the final closing price submit to that already-completed closing auction?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. The decision uses an outcome that was unknown before the auction deadline.
+
+</details>
 
 ---
 

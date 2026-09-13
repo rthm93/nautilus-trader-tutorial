@@ -35,9 +35,12 @@ Stopping entries, canceling orders, and flattening inventory are separate action
 
 You terminate the process. Are all broker orders canceled and positions flat?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Venue orders may survive and inventory certainly can. Verify cancellations and any flattening through the broker.
+
+</details>
 
 ---
 

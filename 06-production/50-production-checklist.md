@@ -27,9 +27,12 @@ For every unchecked item, state the missing evidence and the next experiment tha
 
 A backtest has high returns but you have never tested restart with a pending order. Is it ready for live use?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Research quality and operational readiness are separate requirements; the pending-order recovery case is unresolved.
+
+</details>
 
 ---
 

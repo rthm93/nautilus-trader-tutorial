@@ -32,9 +32,12 @@ Write systems whose state remains understandable when something goes wrong.
 
 A submit call times out. What are the possible outcomes?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 The broker may never have received it, may have accepted it, or may already have filled it. Preserve its identity and reconcile before retrying.
+
+</details>
 
 ---
 

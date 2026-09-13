@@ -18,9 +18,12 @@ Write down whether you use raw execution prices with explicit actions or a simpl
 
 You own 100 shares at a 100 cost basis each. After a two-for-one split, what changes before market movement?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 200 shares at a 50 per-share cost basis; total cost stays 10,000. The split itself does not double your wealth.
+
+</details>
 
 ---
 

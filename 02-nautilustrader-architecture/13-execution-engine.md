@@ -25,9 +25,12 @@ Your Strategy should not attempt to reinvent this machinery.
 
 Should a strategy increment its own inventory when it submits an order?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Use fill-driven engine state; a private optimistic counter can diverge after rejection or partial fill.
+
+</details>
 
 ---
 

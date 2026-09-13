@@ -43,9 +43,12 @@ Define each cost relative to an explicit price benchmark. When spread or slippag
 
 Buy 100 at 100 and sell at 101; fees total 4. If those are actual fill prices, what is PnL?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Gross 100, net 96. Spread and slippage already reflected in these fills must not be subtracted a second time.
+
+</details>
 
 ---
 

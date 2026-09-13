@@ -29,9 +29,12 @@ Keep account balance and equity concepts separate. For the simple unleveraged, s
 
 Start with 10,000 cash. Buy 10 shares at 100 with a fee of 1; mark them at 102. Find cash and equity.
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Cash is 8,999; shares are worth 1,020; equity is 10,019. The purchase shifted cash into inventory; net marked gain is 19.
+
+</details>
 
 ---
 

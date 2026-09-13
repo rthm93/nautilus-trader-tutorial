@@ -28,9 +28,12 @@ Heavy work should be architected appropriately outside the critical event-proces
 
 An earnings API takes five seconds to reply inside on_bar. What can that delay affect?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Processing of market and execution events can be delayed. Precompute or offload work and return timestamped results through supported interfaces; do not mutate trading state from arbitrary worker threads.
+
+</details>
 
 ---
 

@@ -33,9 +33,12 @@ Don't prematurely create an elaborate architecture.
 
 Where should a moving-average observer live, and where should order submission live?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 An actor can publish observations or signals. A Strategy owns trading intent and order management. A first project can keep both in one Strategy.
+
+</details>
 
 ## Official reference
 

@@ -34,9 +34,12 @@ Treat these as domain objects.
 
 A venue accepts quantities in increments of 100 shares. Your sizing formula returns 249. What order size respects a maximum allocation?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Round down to 200 if whole lots are required; precision and allowed increment are different concepts.
+
+</details>
 
 ---
 

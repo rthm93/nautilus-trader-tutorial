@@ -16,9 +16,12 @@ Vary order size, participation, spread, delay, and unfilled quantity. Report how
 
 A backtest profits at 100 shares. Can you assume identical percentage returns at 100,000 shares?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Larger orders may consume depth, move prices, and take longer to complete. Capacity must be tested.
+
+</details>
 
 ---
 

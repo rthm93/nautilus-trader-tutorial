@@ -36,9 +36,12 @@ Separate these mentally:
 
 You call the order factory but never submit the result. Did the broker receive an order?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Construction produces local intent and identity; submission begins the external workflow.
+
+</details>
 
 ---
 

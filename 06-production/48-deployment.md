@@ -18,9 +18,12 @@ Before upgrading, replay representative data and rehearse restart scenarios in a
 
 A supervisor restarts a crashed node. Should it immediately resume entry signals?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Restore state, establish fresh connections, reconcile orders and holdings, warm required inputs, and pass readiness gates first.
+
+</details>
 
 ---
 

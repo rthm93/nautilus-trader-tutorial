@@ -23,9 +23,12 @@ Choose freshness thresholds appropriate to the data frequency and trading sessio
 
 The process is alive but no bars have arrived for ten minutes during a normally active session. Is a heartbeat enough?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Monitor data freshness and expected session activity independently of process liveness.
+
+</details>
 
 ---
 

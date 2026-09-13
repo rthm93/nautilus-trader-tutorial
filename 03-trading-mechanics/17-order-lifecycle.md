@@ -25,9 +25,12 @@ Keep the client order ID, venue ID when known, original quantity, cumulative fil
 
 A cancel request is pending when another 20 shares fill. Can you ignore the fill?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Cancellation is a request until confirmed, and fills can race with it. Update inventory and reconcile the remaining quantity.
+
+</details>
 
 ---
 

@@ -51,9 +51,12 @@ Think:
 
 A valid order passes precision and cash checks but exceeds your sector limit. Who should prevent it?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Your strategy or portfolio risk policy must enforce that limit; do not assume generic command checks implement your investment constraints.
+
+</details>
 
 ---
 

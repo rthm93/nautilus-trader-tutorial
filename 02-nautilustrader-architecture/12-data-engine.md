@@ -25,9 +25,12 @@ It is infrastructure.
 
 Your strategy receives two identical bars from two configured sources. Is that two independent pieces of evidence?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Define source ownership, bar identity, and duplicate handling. Feeding both into an indicator can advance it twice.
+
+</details>
 
 ---
 

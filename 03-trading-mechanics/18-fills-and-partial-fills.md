@@ -35,9 +35,12 @@ One `OrderFilled` event can represent only part of an order. Track cumulative qu
 
 A 100-share buy fills 40 at 100 and 30 at 102. What remains and what is the average price?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 70 are filled, 30 remain, and the average price is 7,060 / 70 = 100.857142857 before commissions.
+
+</details>
 
 ---
 

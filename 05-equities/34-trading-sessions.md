@@ -28,9 +28,12 @@ Use the exchange’s local time zone and current calendar. For US examples, 09:3
 
 Your scheduler hardcodes one UTC time for the US open all year. What assumption fails?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Daylight-saving transitions change the UTC mapping; holidays and early closes also require an exchange calendar.
+
+</details>
 
 ---
 

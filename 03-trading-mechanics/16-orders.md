@@ -43,9 +43,12 @@ A market order favors prompt execution without guaranteeing price. A limit contr
 
 A sell stop triggers at 95, but the next tradable bid is 90. Is a fill at 95 guaranteed?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. A stop-market order prioritizes an exit after triggering, without guaranteeing the trigger price. A stop-limit can remain unfilled.
+
+</details>
 
 ---
 

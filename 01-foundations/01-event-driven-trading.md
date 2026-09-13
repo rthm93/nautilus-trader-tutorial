@@ -88,9 +88,12 @@ Not:
 
 An order is submitted and no acknowledgement arrives. Do you own the shares? Should you submit again?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 You do not yet know the external outcome. Track the pending intent and query/reconcile it; blind resubmission can buy twice.
+
+</details>
 
 ---
 

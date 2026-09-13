@@ -35,9 +35,12 @@ A broker paper account still uses the broker adapter and live connectivity. Loca
 
 Does a successful broker paper trade prove that local sandbox and real fills behave the same?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Each uses different infrastructure or fill assumptions. Name the data connection and execution endpoint explicitly.
+
+</details>
 
 ---
 

@@ -30,9 +30,12 @@ But understanding its existence explains why everything feels event-oriented.
 
 Classify a subscribe request, a submit-order command, and an order-filled notification.
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 A subscription asks for future data, an order command requests an action, and a fill event reports an execution. An event is not a new instruction to trade.
+
+</details>
 
 ---
 

@@ -22,9 +22,12 @@ Garbage assumptions still produce garbage results.
 
 Your simulation uses perfect execution with no costs. Does sharing engine components with live trading make the result realistic?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Shared machinery does not correct unrealistic data, latency, liquidity, or fee assumptions.
+
+</details>
 
 ---
 

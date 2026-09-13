@@ -24,9 +24,12 @@ Don't introduce hedging-mode complexity without a reason.
 
 Two strategies hold +100 and -30 internally. What economic account exposure must you reconcile?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Net +70 for that instrument, while retaining each strategy’s attribution. OMS settings do not grant broker permission to short or hedge.
+
+</details>
 
 ---
 

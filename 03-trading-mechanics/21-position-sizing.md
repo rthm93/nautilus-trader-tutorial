@@ -52,9 +52,12 @@ Allocation is a capital limit, not a guaranteed maximum loss. A stop can gap. Ac
 
 Equity is 10,000, allocation cap 5%, reference price 103, whole shares only. What is the maximum quantity before fee buffer?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Floor(500 / 103) = 4 shares. Reserve fees and possible adverse price movement; five shares would exceed the budget.
+
+</details>
 
 ---
 

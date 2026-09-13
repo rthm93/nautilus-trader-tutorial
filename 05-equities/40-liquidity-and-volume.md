@@ -16,9 +16,12 @@ Run size scenarios and report the fraction of windows where the desired quantity
 
 An order is 5,000 shares and typical five-minute volume is 20,000. What participation does that imply?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 25% of that interval’s volume, which is substantial. Daily volume can disguise a thin execution window.
+
+</details>
 
 ---
 

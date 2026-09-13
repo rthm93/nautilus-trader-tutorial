@@ -20,9 +20,12 @@ A moving-average crossover is an event: yesterday fast was at or below slow, tod
 
 Target is 100 shares, filled inventory is 40, and an existing buy has 60 shares remaining. How much more should you request?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Zero under the simple one-working-order policy. The original order already covers the target; handle changes through the order workflow.
+
+</details>
 
 ---
 

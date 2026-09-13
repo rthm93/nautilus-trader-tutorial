@@ -14,9 +14,12 @@ For each independent run, make the initial account state, warm-up, input window,
 
 You want to inspect a ten-bar example in memory, then repeat catalog-backed experiments. Which API fits each?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 BacktestEngine is convenient for the small trace; BacktestNode suits configured catalog runs. The lower-level API is not inherently less production-worthy.
+
+</details>
 
 ## Official reference
 

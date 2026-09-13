@@ -41,9 +41,12 @@ Do not treat `ts_init` as a guaranteed measurement of network receipt time: it i
 
 A vendor labels a five-minute bar 10:00 because it begins at 10:00. When can its final close be known?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 At or after 10:05, plus publication/processing delay. Relabeling an open timestamp without preserving its meaning can introduce future information.
+
+</details>
 
 ## Official reference
 

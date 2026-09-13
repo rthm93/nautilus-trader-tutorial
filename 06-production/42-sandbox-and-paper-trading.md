@@ -30,9 +30,12 @@ Paper trading can reveal that a proposed edge is implausible and can collect for
 
 Paper fills are consistently better than your conservative backtest. Is that proof the strategy is better?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Inspect the paper simulator’s fill rules, data latency, and liquidity assumptions before interpreting the difference.
+
+</details>
 
 ---
 

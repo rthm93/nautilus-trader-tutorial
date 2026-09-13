@@ -49,9 +49,12 @@ That is one reason a 1-minute OHLC backtest cannot reproduce a tick-level market
 
 A bar has open 100, high 110, low 95, close 105. A position has a stop at 97 and a profit target at 108. Which executes first?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 The bar alone cannot tell you. Different paths support opposite outcomes; the simulator imposes an assumption.
+
+</details>
 
 ---
 

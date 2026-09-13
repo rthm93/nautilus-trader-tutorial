@@ -23,9 +23,12 @@ Store the normalization procedure and dataset version with the experiment. Funda
 
 A dataset has duplicate bars, unexplained gaps, and adjusted closes mixed with raw opens. Is it ready?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Resolve duplicates, classify gaps by session versus missing data, and make price adjustments consistent before simulation.
+
+</details>
 
 ---
 

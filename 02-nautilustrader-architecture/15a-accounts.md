@@ -28,9 +28,12 @@ A positive cash balance does not always equal funds currently available to trade
 
 Equity is 10,000 but available cash is 100. Can you place a 500 cash purchase merely because allocation is below 5%?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. An allocation rule does not create buying power. Both capital and account constraints must pass.
+
+</details>
 
 ---
 

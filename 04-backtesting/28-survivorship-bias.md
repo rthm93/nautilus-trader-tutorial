@@ -25,9 +25,12 @@ Fundamental strategies are particularly vulnerable to point-in-time data problem
 
 You use today’s constituents to claim a strategy worked on the index universe ten years ago. What is wrong?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Selection uses future survival and membership information. A retrospective study of today’s survivors is a different, explicitly limited question.
+
+</details>
 
 ---
 

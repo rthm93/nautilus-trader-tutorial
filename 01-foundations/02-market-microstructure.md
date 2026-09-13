@@ -61,9 +61,12 @@ NautilusTrader's fill models exist precisely because historical data cannot tell
 
 Buy 1,000 shares with 300 offered at 100.02 and the next 700 at 100.03. Calculate the average price.
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 The cost is 100,027; the volume-weighted fill price is 100.027, before fees. The book may change before arrival.
+
+</details>
 
 ---
 

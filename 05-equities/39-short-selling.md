@@ -24,9 +24,12 @@ Add shorting only after the rest of the system is boringly reliable.
 
 You sell short at 100 and the price rises to 250. What is loss per share before costs?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 150. The price increase is not capped at your original proceeds; borrow availability and forced buy-ins create additional risks.
+
+</details>
 
 ---
 

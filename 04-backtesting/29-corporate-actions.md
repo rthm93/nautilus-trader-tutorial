@@ -49,9 +49,12 @@ Do not assume loading adjusted bars makes Nautilus automatically process splits,
 
 You use total-return adjusted prices and also credit cash dividends. What could go wrong?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Dividend benefit may be counted twice. Research series and execution/accounting series need a coherent documented policy.
+
+</details>
 
 ---
 

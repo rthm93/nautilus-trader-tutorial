@@ -47,9 +47,12 @@ That question should become automatic.
 
 A report is dated March 31 but published May 15. Can a backtest use it on April 1?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. The accounting period end is not the public release time. Model availability and later revisions.
+
+</details>
 
 ---
 

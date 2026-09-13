@@ -30,9 +30,12 @@ Not one beautiful equity curve.
 
 You inspect the final holdout, tune the strategy, and test it there again. Is it still untouched?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Its results influenced development. Record that reuse and reserve new evidence for a fresh evaluation.
+
+</details>
 
 ---
 

@@ -18,9 +18,12 @@ Reproducibility means another run using the recorded inputs can explain the same
 
 You kept the Git commit but overwrote your dataset and changed fees. Can you reproduce the old result?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Not reliably. Preserve the dataset version, configuration, dependencies, and simulation assumptions as well.
+
+</details>
 
 ---
 

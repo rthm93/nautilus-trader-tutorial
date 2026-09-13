@@ -39,9 +39,12 @@ Cached state can be stale relative to the broker. Persistence is optional and co
 
 Your cache says flat immediately after a network timeout during submission. Is opening another position safe?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. The broker may have an unreported order or fill. Cache contents describe local knowledge, not proof of external absence.
+
+</details>
 
 ---
 

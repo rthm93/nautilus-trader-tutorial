@@ -23,9 +23,12 @@ First learn Nautilus itself.
 
 Market data comes from vendor A and execution from broker B. What must agree?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Instrument identity, currencies, timestamps, sessions, and your routing assumptions. A matching ticker alone is insufficient.
+
+</details>
 
 ---
 

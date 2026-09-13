@@ -50,9 +50,12 @@ Indicator warm-up, missing instruments, and unavailable subscriptions must preve
 
 What happens if the slow moving average needs 20 observations but you have received only 12?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Continue collecting data and suppress trading. Readiness must be explicit; a partly warmed indicator is not a valid signal.
+
+</details>
 
 ---
 

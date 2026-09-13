@@ -37,9 +37,12 @@ Instrument metadata is only part of the contract. Account restrictions, venue ru
 
 List what you must know beyond a ticker before creating a valid buy order.
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Identify the instrument and route, currency, price increment, quantity increment, allowed size, account buying power, and supported order instructions. Not every rule lives on the instrument object.
+
+</details>
 
 ---
 

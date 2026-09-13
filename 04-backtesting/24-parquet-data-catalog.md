@@ -27,9 +27,12 @@ inside every backtest.
 
 What evidence demonstrates that writing and reading the catalog preserved your input?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Compare object counts, instrument IDs, timestamp boundaries, decimal values, and a representative sample. Keep dataset versions and checksums.
+
+</details>
 
 ---
 

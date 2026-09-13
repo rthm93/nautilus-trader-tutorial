@@ -36,9 +36,12 @@ Not:
 
 You test 1,000 variants and publish the winner’s Sharpe ratio alone. What information is missing?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 The search history, selection procedure, and genuinely unseen evaluation. The winner may represent selection luck.
+
+</details>
 
 ---
 

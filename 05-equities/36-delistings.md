@@ -16,9 +16,12 @@ Measure the sensitivity of results to unresolved outcomes and report how many se
 
 A held security disappears from your price file. May you close it at the last close?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Not automatically. A missing quote is not an executable exit. Use documented action terms or transparent recovery assumptions.
+
+</details>
 
 ---
 

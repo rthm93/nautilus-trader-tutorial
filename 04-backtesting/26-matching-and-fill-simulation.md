@@ -33,9 +33,12 @@ Bar execution uses a synthetic intrabar path. Confirm your installed version’s
 
 You decide after seeing a bar close and the simulator fills at that same price. What must you audit?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Event ordering and execution assumptions. The price could recur later, but seeing a close does not entitle your order to participate in the already-finished trade.
+
+</details>
 
 ## Official reference
 

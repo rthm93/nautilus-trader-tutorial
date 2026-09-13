@@ -25,9 +25,12 @@ Depending on OMS configuration, position modeling can become more complicated.
 
 Starting long 100, you fill a sell for 120. What is the mathematical net inventory?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Short 20, if that trade is permitted. A long-only strategy must constrain sells using actual holdings and other pending exits.
+
+</details>
 
 ---
 

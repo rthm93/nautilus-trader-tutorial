@@ -22,9 +22,12 @@ Warm indicators with earlier observations, but keep warm-up returns outside the 
 
 Choose parameters using 2015–2019, test 2020, then choose using 2016–2020 and test 2021. Can 2020 enter the second training window?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Yes: by the start of 2021 it is historical. It must not alter the choices already evaluated for 2020.
+
+</details>
 
 ---
 

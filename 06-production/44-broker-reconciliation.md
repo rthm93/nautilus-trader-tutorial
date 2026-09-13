@@ -36,9 +36,12 @@ A fresh authoritative broker report is the reference for externally held assets,
 
 Local inventory is 100 and the broker reports 150. What do you do first?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 Pause new exposure and query fresh positions, orders, and executions. Investigate the extra 50 rather than blindly overwriting state or selling.
+
+</details>
 
 ---
 

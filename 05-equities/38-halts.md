@@ -16,9 +16,12 @@ Test a synthetic scenario: a long position exists, data stops, an exit intent ap
 
 A halt begins while your long position has a stop. Does the stop ensure an immediate exit?
 
-## Check your understanding
+<details>
+<summary>Check your understanding</summary>
 
 No. Trading may be unavailable and reopening may gap. Preserve the position and outstanding-order state until authoritative updates arrive.
+
+</details>
 
 ---
 
